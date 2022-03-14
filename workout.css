@@ -1,0 +1,17 @@
+h1{
+	text-align: center;
+	font-family: fantasy;
+	font-size: 50px;
+}
+nav{
+	border: solid black;
+	background: #327da8;
+	padding: 10px;
+	
+}
+a{
+	text-decoration: none;
+	margin: 10px;
+	font-size: 20px;
+	color: black;
+}
